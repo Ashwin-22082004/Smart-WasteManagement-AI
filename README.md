@@ -56,7 +56,7 @@ waste_classification_project/
 ├── requirements.txt                # Python dependencies
 └── README.md                       # Project overview & setup instructions
 
-THe OUTPUT is
+The Final OUTPUT is
 ![Screenshot 2025-05-05 082722](https://github.com/user-attachments/assets/a9a66004-1971-43a6-91cb-6c7c4018a1be)
 ![Screenshot 2025-05-05 082145](https://github.com/user-attachments/assets/d443a70a-4311-4675-9794-438813760449)
 
